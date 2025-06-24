@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm CorvusDada</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Samkash </h1>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-- 📫 How to reach me: **corvusdada@dada.com**
+- 📫 How to reach me: **chauhansamkash@gmail.com**
 
-- 🔥 Fun fact: **I am no body!**
+- 🔥 Fun fact: **I am New who just started journey**
 
 ---
 
