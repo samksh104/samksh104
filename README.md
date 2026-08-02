@@ -1,22 +1,65 @@
-<h1 align="center">Hi 👋, I'm Samkash </h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Samkash Chauhan</h1>
+<h3 align="center">Aspiring Software Developer | C++ & Python Enthusiast | Problem Solver 🇮🇳</h3>
 
-- 📫 How to reach me: **chauhansamkash@gmail.com**
-
-- 🔥 Fun fact: **I am New who just started journey**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/samkash-chauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samksh104&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Solving Data Structures & Algorithms problems on LeetCode
+- 🌱 Currently learning **C++, Python, Data Structures & Algorithms**
+- 🚀 Building real-world projects to improve my development skills
+- 📫 Reach me at: **chauhansamkash@gmail.com**
+- ⚡ Fun Fact: **Every expert was once a beginner—I'm enjoying the journey!**
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/samkash-chauhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
 </p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samksh104&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samksh104&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samksh104&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Solve 500+ LeetCode problems
+- ✅ Master Data Structures & Algorithms
+- ✅ Build AI & Python Projects
+- ✅ Contribute to Open Source
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
