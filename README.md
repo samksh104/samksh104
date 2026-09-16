@@ -13,7 +13,7 @@
 - 💻 Solving Data Structures & Algorithms problems on LeetCode
 - 🌱 Currently learning **C++, Python, Data Structures & Algorithms**
 - 🚀 Building real-world projects to improve my development skills
-- 📫 Reach me at: **chauhansamkash@gmail.com**
+- 📫 Reach me at: **samkashc@gmail.com**
 - ⚡ Fun Fact: **Every expert was once a beginner—I'm enjoying the journey!**
 
 ---
